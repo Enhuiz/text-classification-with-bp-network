@@ -1,13 +1,8 @@
->This is a .md file please open with the markdown viewer
->you can paste the whole content of .md file here to view it: https://www.zybuluo.com/mdeditor
-
-#Notice
-
-##About the result
+#About the result
 
 a.txt b.txt c.txt is the running result of the classfication
 
-##How to run the program
+#How to run the program
 ###1. configure
 please first install the python pacakges: numpy, jieba, nltk
 ###2. run
