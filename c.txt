@@ -1,0 +1,27 @@
+# this is the output of mainzh.py processing data set C
+# features: tf-idf and labeled word count(for each label choose the number of words that belong to this label as a feature value)
+# features dimension: 308
+# network parameter: epoch: 20, learning rate: 1.0, layers: [308, 50, 8]
+
+Epoch 0: 58 / 80 = 0.725
+Epoch 1: 66 / 80 = 0.825
+Epoch 2: 70 / 80 = 0.875
+Epoch 3: 71 / 80 = 0.8875
+Epoch 4: 71 / 80 = 0.8875
+Epoch 5: 71 / 80 = 0.8875
+Epoch 6: 70 / 80 = 0.875
+Epoch 7: 71 / 80 = 0.8875
+Epoch 8: 71 / 80 = 0.8875
+Epoch 9: 71 / 80 = 0.8875
+Epoch 10: 70 / 80 = 0.875
+Epoch 11: 70 / 80 = 0.875
+Epoch 12: 72 / 80 = 0.9
+Epoch 13: 72 / 80 = 0.9
+Epoch 14: 72 / 80 = 0.9
+Epoch 15: 72 / 80 = 0.9
+Epoch 16: 72 / 80 = 0.9
+Epoch 17: 72 / 80 = 0.9
+Epoch 18: 72 / 80 = 0.9
+Epoch 19: 72 / 80 = 0.9
+
+cost time(exclude preprocess time): 9.03512907028 seconds

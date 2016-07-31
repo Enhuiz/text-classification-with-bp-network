@@ -1,0 +1,27 @@
+# this is the output of main.py processing data set B
+# features: tf-idf and labeled word count(for each label choose the number of words that belong to this label as a feature value)
+# features dimension: 320
+# network parameter: epoch: 20, learning rate: 1.0, layers: [320, 50, 20]
+
+Epoch 0: 2084 / 5645 = 0.369176262179
+Epoch 1: 3164 / 5645 = 0.560496014172
+Epoch 2: 3324 / 5645 = 0.588839681134
+Epoch 3: 3378 / 5645 = 0.598405668733
+Epoch 4: 3575 / 5645 = 0.63330380868
+Epoch 5: 3572 / 5645 = 0.632772364925
+Epoch 6: 3634 / 5645 = 0.643755535872
+Epoch 7: 3629 / 5645 = 0.64286979628
+Epoch 8: 3599 / 5645 = 0.637555358725
+Epoch 9: 3659 / 5645 = 0.648184233835
+Epoch 10: 3675 / 5645 = 0.651018600531
+Epoch 11: 3686 / 5645 = 0.652967227635
+Epoch 12: 3689 / 5645 = 0.653498671391
+Epoch 13: 3685 / 5645 = 0.652790079717
+Epoch 14: 3692 / 5645 = 0.654030115146
+Epoch 15: 3693 / 5645 = 0.654207263065
+Epoch 16: 3729 / 5645 = 0.660584588131
+Epoch 17: 3688 / 5645 = 0.653321523472
+Epoch 18: 3681 / 5645 = 0.652081488043
+Epoch 19: 3698 / 5645 = 0.655093002657
+
+cost time(exclude preprocess time): 26.7541799545 seconds
