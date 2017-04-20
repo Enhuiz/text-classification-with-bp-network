@@ -1,11 +1,11 @@
-#About the result
+# About the result
 
 a.txt b.txt c.txt is the running result of the classfication
 
-#How to run the program
-###1. configure
+# How to run the program
+### 1. configure
 please first install the python pacakges: numpy, jieba, nltk
-###2. run
+### 2. run
 ```
 $python main.py data/a
 ```
